@@ -6,11 +6,11 @@ Hi Slava! The assignment has been done using Node.JS.
 Please add these two files two a folder and do an npm install to get all the dependencies. Please make sure you have 
 node and npm installed on your machine.
 
-Commands
+##Commands
 
-npm install
+**npm install**
 
-node app.js (To run the file)
+**node app.js** (To run the file)
 
 Expected output : 
 
