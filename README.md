@@ -12,7 +12,7 @@ node and npm installed on your machine.
 
 **node app.js** (To run the file)
 
-Expected output : 
+##Expected output : 
 
 Total Sum = $18377.16 (Main Assignment)
 
